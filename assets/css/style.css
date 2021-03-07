@@ -64,14 +64,14 @@ header nav ul li {
     width: 100%;
 }
 
-/* Content section styling */
-.content {
+/* Main content section styling */
+main {
     display: inline-block;
     margin-left: 20px;
     width: 75%;
 }
 
-.content article {
+main article {
     background-color: #0072bb;
     color: #ffffff;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -92,7 +92,7 @@ header nav ul li {
     max-height: 200px;
 }
 
-.content article h2 {
+main article h2 {
     font-size: 36px;
     margin-bottom: 20px;
 }
