@@ -1,4 +1,4 @@
-# Code-Refractor-Assignment
+# Code-Refractor-Project
 
 ## Description
 
@@ -28,4 +28,4 @@ The following image shows the web application's appearance and functionality:
 
 The link to the deployed application:
 
-Horiseon Social Solution Services: https://trushilbudhia.github.io/Code-Refractor-Assignment/
+Horiseon Social Solution Services: https://trushilbudhia.github.io/Code-Refractor-Project/
